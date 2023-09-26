@@ -15,6 +15,6 @@ Publications
 1. Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures(Tois 2023)  
 Wei Yuan, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin
 2. ROIC-DM: Robust text Inference and Classification via Diffusion Model(AAAI 2024)  
-Shilong Yuan, Wei Yuan, Hongzhi Yin, Tieke HE
+Shilong Yuan, Wei Yuan, Hongzhi Yin, Tieke He
    
 
