@@ -14,9 +14,10 @@ My research interests include text-based attacks and defenses, controlled text g
 
 Links: 
 [[kaggle]](https://www.kaggle.com/herbertlrosbo)
-[[WorldQuant]](shilongyuan.github.io/images/worldquant.png )
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=SknCVo0AAAAJ&view_op=list_works&gmla=AP6z3OZbFBYU-mRwOZvr4pjIrG-x3bbTs8W-5pX5IC48OFAeY4T-4QSbgsddgimFgraRHF7LqdGvKPHEKRSiH8gRIYuoMY78wZnR5C6jxVk)
 [[Github]](https://github.com/ShilongYuan)
+[[WorldQuant]](shilongyuan.github.io/images/worldquant.png )
+
 
 Publications 
 ======
@@ -37,4 +38,8 @@ Awards: 1🏅️1🥈1🥉
 2. [**RSNA Screening Mammography Breast Cancer Detection**](https://www.kaggle.com/competitions/rsna-breast-cancer-detection)🥉
 
 3. [**Worldquant Challenge**](https://platform.worldquantbrain.com/)🏅️
+
+Teach
+=====
+-(2022 fall) TA@Statistic model(SE 085212D21)
 
