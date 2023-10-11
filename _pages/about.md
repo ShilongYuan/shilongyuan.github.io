@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a second-year graduate student from the School of Software Engineering at Nanjing University.
 I am affiliated with the [ISE lab](http://www.iselab.cn).
-His research interests include text-based attacks and defenses, controlled text generation, and diffusion models
+My research interests include text-based attacks and defenses, controlled text generation, and diffusion models
 
 Publications 
 ======
