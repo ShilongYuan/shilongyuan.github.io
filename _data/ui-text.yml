@@ -21,9 +21,6 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
-  feed_label                 : "Feed"
-  powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
@@ -70,12 +67,7 @@ es: &DEFAULT_ES
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
   follow_label               : "Seguir:"
-  feed_label                 : "Feed"
-  powered_by                 : "Powered by"
-  website_label              : "Sitio web"
-  email_label                : "Email"
-  recent_posts               : "Entradas recientes"
-  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
+
   comment_form_info          :
   comment_form_comment_label :
   comment_form_md_info       :
