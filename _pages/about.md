@@ -21,10 +21,10 @@ Links:
 Publications 
 ======
 1. **ROIC-DM: Robust text Inference and Classification via Diffusion Model**(AAAI 2024)  
-Shilong Yuan, Wei Yuan, Hongzhi Yin, Tieke He
+**Shilong Yuan**, Wei Yuan, Hongzhi Yin, Tieke He
    
-2. [**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**](shilongyuan.github.io/images/pub/Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures.pdf)(TOIS 2023)  
-Wei Yuan, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin
+2. [**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**](https://arxiv.org/abs/2305.08183)(TOIS 2023)  
+Wei Yuan, **Shilong Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin
 
 Competitions
 ======
@@ -37,3 +37,4 @@ Awards: 1🏅️1🥈1🥉
 2. [**RSNA Screening Mammography Breast Cancer Detection**](https://www.kaggle.com/competitions/rsna-breast-cancer-detection)🥉
 
 3. [**Worldquant Challenge**](https://platform.worldquantbrain.com/)🏅️
+
