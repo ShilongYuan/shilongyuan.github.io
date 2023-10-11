@@ -13,10 +13,10 @@ I am affiliated with the [ISE lab](http://www.iselab.cn).
 My research interests include text-based attacks and defenses, controlled text generation, and diffusion models
 
 Links: 
-[kaggle](https://www.kaggle.com/herbertlrosbo)
-[World Quant](shilongyuan.github.io/images/worldquant.png )
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=SknCVo0AAAAJ&view_op=list_works&gmla=AP6z3OZbFBYU-mRwOZvr4pjIrG-x3bbTs8W-5pX5IC48OFAeY4T-4QSbgsddgimFgraRHF7LqdGvKPHEKRSiH8gRIYuoMY78wZnR5C6jxVk)
-[Github](https://github.com/ShilongYuan)
+[[kaggle]](https://www.kaggle.com/herbertlrosbo)
+[[WorldQuant]](shilongyuan.github.io/images/worldquant.png )
+[[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=SknCVo0AAAAJ&view_op=list_works&gmla=AP6z3OZbFBYU-mRwOZvr4pjIrG-x3bbTs8W-5pX5IC48OFAeY4T-4QSbgsddgimFgraRHF7LqdGvKPHEKRSiH8gRIYuoMY78wZnR5C6jxVk)
+[[Github]](https://github.com/ShilongYuan)
 
 Publications 
 ======
