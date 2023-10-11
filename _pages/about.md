@@ -25,8 +25,7 @@ Competitions
 Awards: 1🏅️1🥈1🥉
 
 [kaggle](https://www.kaggle.com/herbertlrosbo)
-[World Quant](<img width="764" alt="worldquant" src="https://github.com/ShilongYuan/shilongyuan.github.io/assets/97816975/13106de0-c223-41bc-8c98-b06315adfb52">
-)
+[World Quant](shilongyuan.github.io/images/worldquant.png )
 
 1. [**American Express - Default Prediction**](https://www.kaggle.com/competitions/amex-default-prediction)🥈
 
