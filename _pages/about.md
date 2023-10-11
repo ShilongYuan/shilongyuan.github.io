@@ -23,6 +23,13 @@ Wei Yuan, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin
 Competitions
 ======
 Awards: 1🏅️1🥈1🥉
+
 [kaggle](https://www.kaggle.com/herbertlrosbo)
 [World Quant](<img width="764" alt="worldquant" src="https://github.com/ShilongYuan/shilongyuan.github.io/assets/97816975/13106de0-c223-41bc-8c98-b06315adfb52">
 )
+
+1. [**American Express - Default Prediction**](https://www.kaggle.com/competitions/amex-default-prediction)🥈
+
+2. [**RSNA Screening Mammography Breast Cancer Detection**](https://www.kaggle.com/competitions/rsna-breast-cancer-detection)🥉
+
+3. [**Worldquant Challenge**](https://platform.worldquantbrain.com/)🏅️
