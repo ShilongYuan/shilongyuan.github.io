@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Shilong Yuan"
+title                    : "Shilong Yuan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shilong Yuan"
   avatar           : "zhuye.png"
-  bio              : #"Flowers bloom again, but youth never returns."
+  bio              : Master|NanJing University#"Flowers bloom again, but youth never returns."
   location         : 
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
