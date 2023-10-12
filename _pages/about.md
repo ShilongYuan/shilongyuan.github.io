@@ -21,7 +21,7 @@ Links:
 
 Publications 
 ======
-1. **ROIC-DM: Robust text Inference and Classification via Diffusion Model** (AAAI 2024)  
+1. [**ROIC-DM: Robust text Inference and Classification via Diffusion Model**](https://arxiv.org) (AAAI 2024)  
 **Shilong Yuan**, Wei Yuan, Hongzhi Yin, Tieke He
    
 2. [**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**](https://arxiv.org/abs/2305.08183) (TOIS 2023)  
@@ -41,5 +41,5 @@ Awards: 1🏅️1🥈1🥉
 
 Teach
 =====
-(2022 fall) TA@Statistic model(SE 085212D21)
+-(2022 fall) TA@Statistic model(SE 085212D21)
 
