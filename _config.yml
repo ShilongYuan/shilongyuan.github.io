@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shilong Yuan"
   avatar           : "zhuye.png"
-  bio              : "Flowers bloom again, but youth never returns."
+  bio              : #"Flowers bloom again, but youth never returns."
   location         : 
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
