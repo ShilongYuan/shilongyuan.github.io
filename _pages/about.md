@@ -41,5 +41,5 @@ Awards: 1🏅️1🥈1🥉
 
 Teach
 =====
--(2022 fall) TA@Statistic model(SE 085212D21)
+▪️(2022 fall) TA@Statistic model(SE 085212D21)
 
