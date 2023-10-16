@@ -25,7 +25,7 @@ Publications
 **Shilong Yuan**, Wei Yuan, Hongzhi Yin, Tieke He
    
 2. [**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**](https://arxiv.org/abs/2305.08183) (TOIS 2023)  
-Wei Yuan, **Shilong Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin
+Wei Yuan, **Shilong Yuan***, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin
 
 Competitions
 ======
