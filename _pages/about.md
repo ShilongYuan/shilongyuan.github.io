@@ -21,6 +21,8 @@ Links:
 
 Publications 
 ======
+
+* equal contribution
 1. [**ROIC-DM: Robust text Inference and Classification via Diffusion Model**](https://arxiv.org) (AAAI 2024)  
 **Shilong Yuan**, Wei Yuan, Hongzhi Yin, Tieke He
    
